@@ -30,13 +30,13 @@ _Pl Note: For demo purposes, only 50 total data samples are linked as part of th
 
 Dataset and Features (links):<br>
 
-Datasets (Sample) <br>
+<!-- Datasets (Sample) <br>
 Harm-P: https://drive.google.com/file/d/10Otu_cAZSX1tXMh2puqUl5dqLRAxr3ui/view?usp=sharing <br>
-Harm-C: https://drive.google.com/file/d/1X_Ty1DsuV2hD3naiKeih5bMvRIyCuNxy/view?usp=sharing
+Harm-C: https://drive.google.com/file/d/1X_Ty1DsuV2hD3naiKeih5bMvRIyCuNxy/view?usp=sharing -->
 
 <!-- Complete dataset links to be released upon approval -->
 
-Datasets (Complete) <br>
+HarMeme Datasets (Complete) - Meme Images + Annotations <br>
 Harm-P: https://drive.google.com/file/d/1fw850yxKNqzpRpQKH88D13yfrwX1MLde/view?usp=sharing <br>
 Harm-C: https://drive.google.com/file/d/1dxMrnyXcED-85HCcQiA_d5rr8acwl6lp/view?usp=sharing
 
