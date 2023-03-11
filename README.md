@@ -1,6 +1,6 @@
 # MOMENTA
 
-This is the repo for "MOMENTA: A Multimodal Framework for Detecting Harmful Memes and Their Targets" accepted (conditionally) at Findings of EMNLP '21.
+This is the repo for "MOMENTA: A Multimodal Framework for Detecting Harmful Memes and Their Targets" accepted at Findings of EMNLP '21.
 
 setting up dependencies
 ```
