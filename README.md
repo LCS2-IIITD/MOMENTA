@@ -44,7 +44,7 @@ Harm-C: https://drive.google.com/file/d/1X_Ty1DsuV2hD3naiKeih5bMvRIyCuNxy/view?u
 <strong>Please note: TWO versions of HarMeme dataset (V0 and V1) are described below. We recommend using <a href="https://github.com/LCS2-IIITD/MOMENTA/tree/main/HarMeme_V1">HarMeme-V1</a> for updated and correct version.</strong> 
 
 <ol>
-    <li><u>HarMeme-V0:</u> OBSOLETE. <i>CAUTION! Contains duplicates.</i> Thanks to <a href="https://github.com/mingshanhee">mingshanhee</a> and <a href="https://github.com/uprihtness">uprihtness</a> for pointing out the discrepancies. See the upgraded version (V1) below for the deduplicated version. HarMeme-V0 (OBSOLETE) content can be accessed via the following links:</li>
+    <li><u>HarMeme-V0:</u> <strong>OBSOLETE. <i>CAUTION! Contains duplicates.</i></strong>strong> Thanks to <a href="https://github.com/mingshanhee">mingshanhee</a> and <a href="https://github.com/uprihtness">uprihtness</a> for pointing out the discrepancies. See the upgraded version (V1) below for the deduplicated version. HarMeme-V0 (OBSOLETE) content can be accessed via the following links:</li>
 <ul>
 <li><a href="https://drive.google.com/file/d/1fw850yxKNqzpRpQKH88D13yfrwX1MLde/view?usp=sharing">Harm-P (US Politics)</a>, <a href="https://drive.google.com/file/d/1dxMrnyXcED-85HCcQiA_d5rr8acwl6lp/view?usp=sharing">Harm-C (Covid-19)</a></li>
 <li><a href="https://drive.google.com/file/d/1KBltp_97CJIOcrxln9VbDfoKxbVQKcVN/view?usp=sharing">Entity features</a>, <a href="https://drive.google.com/file/d/1KRAJcTme4tmbuNXLQ72NTfnQf3x2YQT_/view?usp=sharing">ROI features</a>, <a href="https://drive.google.com/file/d/1xeviXtHE46md3usybEO2FIAcRkBmXZN7/view?usp=sharing">ROI + Entity features</a></li>
