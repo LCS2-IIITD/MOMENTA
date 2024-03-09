@@ -11,5 +11,5 @@ For stats of <strong>Harm-C</strong>, refer the original data from <a href="http
 
 
 ## Structure of the content in the files in folder "MetaInfo" 
-<span style="color: red;">[CAUTION! The content in the datset and the sample shown might contain sensitive information. Reader's discretion is advised]</span>
+<span style="color: red;">CAUTION! The content in the datset and the sample shown might contain sensitive information. Reader's discretion is advised</span>
 ![dictstruct](https://github.com/LCS2-IIITD/MOMENTA/assets/9869470/06d2d94c-1c8c-4ffa-96c1-dca78676ae88)
