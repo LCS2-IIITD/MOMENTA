@@ -41,7 +41,7 @@ Harm-C: https://drive.google.com/file/d/1X_Ty1DsuV2hD3naiKeih5bMvRIyCuNxy/view?u
 
 <!-- Complete dataset links to be released upon approval -->
 
-<strong>Please note: TWO versions of HarMeme dataset (V0 and V1) can be accessed below.</strong> 
+<strong>Please note: TWO versions of HarMeme dataset (V0 and V1) are described below. We recommend using <a href="https://github.com/LCS2-IIITD/MOMENTA/tree/main/HarMeme_V1">HarMeme-V1</a> for updated and correct version.</strong> 
 
 <ol>
     <li><u>HarMeme-V0:</u> OBSOLETE. <i>CAUTION! Contains duplicates.</i> Thanks to <a href="https://github.com/mingshanhee">mingshanhee</a> and <a href="https://github.com/uprihtness">uprihtness</a> for pointing out the discrepancies. See the upgraded version (V1) below for the deduplicated version. HarMeme-V0 content ca be accessed via the following links:</li>
