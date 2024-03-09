@@ -23,12 +23,17 @@ For sentence transformer: Follow steps from https://github.com/UKPLab/sentence-t
 
 ## Instructions
 The .py contains the exhaustive set of steps required to be run in sequence.
-For data-set loading:<br>
-_Pl Note: For demo purposes, only 50 total data samples are linked as part of this repo._
-1. It contains code for loading pre-saved ROI and entity features, which can be loaded if available.
-2. Otherwise the code for extracting features on-demand is also included.
+<br>
+<!-- _Pl Note: A sample only 50 total data samples are linked as part of this repo._ -->
+<ol>
+    <li>It contains code for loading pre-saved ROI and entity features, which can be loaded if available.</li>
+    <li>Otherwise the code for extracting features on-demand is also included.</li>
+    <li>For initializing dataset and data loader for pytorch: Load the data-set for training and testing as per the requirement of the run.</li>
+    <li><i>Experimental settings:</i><br>
+Configurations for the binary/multi-class setting (training/testing/evaluation) has to be considered as per the requirement, code blocks for which are provided and suitably commented out.</li>
+</ol>
 
-Dataset and Features (links):<br>
+## Dataset, Features and Meta-info:<br>
 
 <!-- Datasets (Sample) <br>
 Harm-P: https://drive.google.com/file/d/10Otu_cAZSX1tXMh2puqUl5dqLRAxr3ui/view?usp=sharing <br>
@@ -36,17 +41,17 @@ Harm-C: https://drive.google.com/file/d/1X_Ty1DsuV2hD3naiKeih5bMvRIyCuNxy/view?u
 
 <!-- Complete dataset links to be released upon approval -->
 
-HarMeme Datasets (Complete) - Meme Images + Annotations <br>
-Harm-P: https://drive.google.com/file/d/1fw850yxKNqzpRpQKH88D13yfrwX1MLde/view?usp=sharing <br>
-Harm-C: https://drive.google.com/file/d/1dxMrnyXcED-85HCcQiA_d5rr8acwl6lp/view?usp=sharing
+<strong>Please note: TWO versions of HarMeme dataset (V0 and V1) can be accessed below.</strong> 
 
-Entity features: https://drive.google.com/file/d/1KBltp_97CJIOcrxln9VbDfoKxbVQKcVN/view?usp=sharing <br>
-ROI features: https://drive.google.com/file/d/1KRAJcTme4tmbuNXLQ72NTfnQf3x2YQT_/view?usp=sharing <br>
-ROI + Entity features: https://drive.google.com/file/d/1xeviXtHE46md3usybEO2FIAcRkBmXZN7/view?usp=sharing <br>
-
-For initializing dataset and data loader for pytorch
-
-1. Load the data-set for training and testing as per the requirement of the run.
-
-Experimental setting<br>
-Configurations for the binary/multi-class setting (training/testing/evaluation) has to be considered as per the requirement, code blocks for which are provided and suitably commented out.
+<ol>
+    <li><u>HarMeme-V0:</u> Uploaded originally. <i>CAUTION! Contains duplicates.</i> Thanks to <a href="https://github.com/mingshanhee">mingshanhee</a> and <a href="https://github.com/uprihtness">uprihtness</a> for pointing out the discrepancies. See the upgraded version (V1) below for the deduplicated version. HarMeme-V0 content ca be accessed via the following links:</li>
+<ul>
+<li><a href="https://drive.google.com/file/d/1fw850yxKNqzpRpQKH88D13yfrwX1MLde/view?usp=sharing">Harm-P (US Politics)</a>, <a href="https://drive.google.com/file/d/1dxMrnyXcED-85HCcQiA_d5rr8acwl6lp/view?usp=sharing">Harm-C (Covid-19)</a></li>
+<li><a href="https://drive.google.com/file/d/1KBltp_97CJIOcrxln9VbDfoKxbVQKcVN/view?usp=sharing">Entity features</a>, <a href="https://drive.google.com/file/d/1KRAJcTme4tmbuNXLQ72NTfnQf3x2YQT_/view?usp=sharing">ROI features</a>, <a href="https://drive.google.com/file/d/1xeviXtHE46md3usybEO2FIAcRkBmXZN7/view?usp=sharing">ROI + Entity features</a></li>
+</ul>
+    <li><u>HarMeme-V1:</u> Updated + Complete Version. Check the folder named: "HarMeme_V1" for data files. <strong>Please refer Harm-P (US Politics), Harm-C (Covid-19) links for meme images </strong>. The folder contains the following:</li>
+    <ul>
+        <li>Annotations (Same format as V0: [id, image, labels, text]), but complete set.</li>
+        <li>Meta-info (Collected using <a href="https://cloud.google.com/vision?hl=en">GCV API</a>): Meme id, OCR Text, Web Entities, Best labels, Titles, Objects, ROI Info.</li>
+    </ul>
+</ol>    
