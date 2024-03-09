@@ -7,4 +7,4 @@ Statistics about <strong>Harm-P</strong> from <strong>HarMeme-V1</strong>.
 |  **Total** |    3470    |        143       |         1605         |       1722      |
 
 
-For stats of <strong>Harm-C</strong>, refer <a href="https://aclanthology.org/2021.findings-emnlp.379.pdf">Table 1 from the EMNLP'21 (Findings)</a> paper.
+For stats of <strong>Harm-C</strong>, refer the original data from <a href="https://aclanthology.org/2021.findings-emnlp.379.pdf">Table 1 @ the EMNLP'21 (Findings)</a> paper.
