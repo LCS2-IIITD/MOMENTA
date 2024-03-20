@@ -44,6 +44,7 @@ Harm-C: https://drive.google.com/file/d/1X_Ty1DsuV2hD3naiKeih5bMvRIyCuNxy/view?u
 <strong>Please note: TWO versions of Harm-P data for "Harmfulness" are provided as part of HarMeme-V0 (has duplicates in Harm-P) and HarMeme-V1 (completed set for Harm-P), respectively. We recommend using <a href="https://github.com/LCS2-IIITD/MOMENTA/tree/main/HarMeme_V1">HarMeme-V1</a> for updated and correct version for "Harmfulness" data for US Politics category (both V0 and V1 contain original-ReadyToUse-data for Covid-19 category). While "Target" data for both categories can be found as part of HarMeme-V0 link given below.</strong> 
 
 <ol>
+    <li><a href="https://drive.google.com/file/d/1aMvOHACrG5SgMl4tm9BP1VTiqv8zFn9b/view?usp=sharing">HarMeme Images</a></li>
     <li><strong><u>HarMeme-V0:</u></strong> <strong><i>CAUTION! OBSOLETE FOR HARM-P "Harmfulness" - Contains duplicates in Harm-P.</i></strong> See the upgraded version (V1) below for the deduplicated version of Harm-P (Harmfulness) data. HarMeme-V0 content (including <i>Target</i> data) can be accessed via the following links:</li>
 <ul>
 <li><a href="https://drive.google.com/file/d/1LwS050q5HNcURj-FmfmCxglZ6guJ2swW/view?usp=sharing">HarMeme-V0</a> data files (Harmfulness + Target) - Contains <i>duplicates</i> for US Politics (Harmfulness)</li>
